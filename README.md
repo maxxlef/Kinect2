@@ -6,11 +6,12 @@ Avant de commencer, assurez-vous d’avoir un environnement ROS 2 Humble fonctio
 
 ### Dépendances nécessaires :
 - **`argparse` pour C++**
-- **`libfreenect2`** : le driver de la Kinect V2
+- [**`libfreenect2`**](https://github.com/maxxlef/Kinect2/blob/main/README.md#installation-et-configuration-de-libfreenect2-sur-ubuntu-2204): le driver de la Kinect V2
 
 ## 2. Préparation de l’espace de travail
 
 Placez-vous dans le répertoire de travail ROS 2 et créez un workspace si ce n’est pas déjà fait.
+Pour apprendre à faire un espace de travail voir la [vidéo Youtube](https://youtu.be/Y_SyQXTL2XU?t=16).
 
 ```bash
 cd ~/dev_ws/src
