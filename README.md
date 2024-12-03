@@ -224,3 +224,4 @@ Une fois cela effectué, essayez de lancer `Protonect` à nouveau.
 ## Ressources supplémentaires
 
 - [Dépôt GitHub de libfreenect2](https://github.com/OpenKinect/libfreenect2)
+- [Dépôt GitHub de threeal](https://github.com/threeal/ros2_kinect2.git).
