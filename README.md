@@ -35,6 +35,7 @@ git clone https://github.com/threeal/ros2_kinect2.git
 
 ### 3.1. Modifier le fichier `CMakeLists.txt`
 Dans le dossier `ros2_kinect2`, ouvrez et modifiez le fichier `CMakeLists.txt` pour vous assurer que toutes les dépendances sont correctement incluses.
+Il faut le remplacer par : [CMakeList.txt](https://github.com/maxxlef/Kinect2/blob/main/CMakeLists.txt)
 
 ### 3.2. Trouver le bon chemin pour `libfreenect2`
 Vous devez indiquer le chemin vers la bibliothèque `libfreenect2` utilisée par Kinect. Pour trouver son emplacement, utilisez la commande suivante :
